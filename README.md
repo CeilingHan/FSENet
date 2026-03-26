@@ -1,7 +1,7 @@
 # FSENet: Face-Guided Sentiment Boundary Enhancement for Weakly-Supervised Temporal Sentiment Localization
 
 **[Paper](https://arxiv.org/abs/2603.14750)**
-｜ **[Code](https://github.com/Cerilong/FSENet)**
+｜ **[Code](https://github.com/CeilingHan/FSENet.git)**
 
 ## Overview
 
